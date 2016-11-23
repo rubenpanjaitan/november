@@ -1,0 +1,3 @@
+this is windows file
+created with windows 10
+please encode to unix and mac
